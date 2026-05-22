@@ -2,7 +2,7 @@
 title: "VieRnes de Bioinformática en el LIIGH"
 subtitle: "⚔<br/>Sesión informativa"  
 author: "Dra. Evelia Coss"
-date: "20/febrero/2026"
+date: "22/mayo/2026"
 output:
   xaringan::moon_reader:
     css: 
