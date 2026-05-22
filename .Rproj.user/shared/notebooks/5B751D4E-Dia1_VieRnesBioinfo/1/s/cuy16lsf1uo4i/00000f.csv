@@ -1,0 +1,20 @@
+"0","cat('"
+"0","<div style=""display:flex; justify-content:center; align-items:center;"">"
+"0","  <div style=""display:flex; justify-content:space-around; width:80%; text-align:center;"">"
+"0","    <div>"
+"0","      <img src=""figures/EveCoss.jpg"" style=""width:150px; height:150px; border-radius:50%; object-fit:cover;""><br>"
+"0","      <b>Evelia Coss</b><br>"
+"0","      Coordinadora<br>Instructora"
+"0","    </div>"
+"0","    "
+"0","')"
+"1","
+<div style=""display:flex; justify-content:center; align-items:center;"">
+  <div style=""display:flex; justify-content:space-around; width:80%; text-align:center;"">
+    <div>
+      <img src=""figures/EveCoss.jpg"" style=""width:150px; height:150px; border-radius:50%; object-fit:cover;""><br>
+      <b>Evelia Coss</b><br>
+      Coordinadora<br>Instructora
+    </div>
+    
+"
